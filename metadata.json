@@ -1,0 +1,6 @@
+{
+  "name": "Địa Lí 3D - Các Mùa & Chuyển Động Của Trái Đất",
+  "description": "Ứng dụng 3D tương tác mô phỏng các mùa trong năm và chuyển động của Trái Đất quanh Mặt Trời dành cho dạy học Địa lí lớp 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
